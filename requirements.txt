@@ -1,0 +1,48 @@
+# Core
+python>=3.10
+jupyter
+ipykernel
+python-dotenv
+
+# Data Processing
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+torch
+transformers
+sentence-transformers
+
+# NLP
+tiktoken
+datasets
+
+# AI Engineering
+langchain
+langchain-community
+langchain-core
+langgraph
+langchain-openai
+openai
+pinecone-client
+faiss-cpu
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Observability
+langsmith
+
+# Caching
+redis
+
+# Utilities
+requests
+tqdm
